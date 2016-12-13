@@ -1,0 +1,1 @@
+This project takes data about a downloaded video and transfers them to their correct directory.
